@@ -1,102 +1,3 @@
-# import customtkinter as ctk
-# from tkinter import messagebox
-# import google.generativeai as genai
-# from threading import Thread
-# import time
-
-# # Set your Gemini API key
-# genai.configure(api_key="AIzaSyCuM_l7gDak-8y5tIefRVXE_QKfOYhoulo")  # 🔴 Replace with your key
-
-# # Gemini model
-# model = genai.GenerativeModel("gemini-2.0-flash")
-
-# # App UI setup
-# ctk.set_appearance_mode("dark")
-# ctk.set_default_color_theme("green")
-
-# app = ctk.CTk()
-# app.geometry("600x550")
-# app.title("🌾 Online AI Crop Advisor using Gemini")
-# app.resizable(False, False)
-
-# title_label = ctk.CTkLabel(app, text="🌿 Online Smart Farming Assistant", font=ctk.CTkFont(size=24, weight="bold"))
-# title_label.pack(pady=15)
-
-# input_frame = ctk.CTkFrame(app, corner_radius=12)
-# input_frame.pack(pady=10, padx=20, fill="x")
-
-# temp_entry = ctk.CTkEntry(input_frame, placeholder_text="🌡 Temperature (°C) / तापमान", height=40)
-# temp_entry.pack(pady=10, padx=20, fill="x")
-
-# hum_entry = ctk.CTkEntry(input_frame, placeholder_text="💧 Humidity (%) / नमी", height=40)
-# hum_entry.pack(pady=10, padx=20, fill="x")
-
-# moist_entry = ctk.CTkEntry(input_frame, placeholder_text="🌱 Soil Moisture (%) / मिट्टी की नमी", height=40)
-# moist_entry.pack(pady=10, padx=20, fill="x")
-
-# # Result area
-# result_label = ctk.CTkLabel(app, text="", wraplength=500, justify="left", font=ctk.CTkFont(size=14))
-# result_label.pack(pady=15, padx=20)
-
-# # Loader animation
-# loading_label = ctk.CTkLabel(app, text="", font=ctk.CTkFont(size=12, weight="normal"))
-# loading_label.pack()
-
-# # Loader animation thread
-# def loading_animation():
-#     dots = ["", ".", "..", "..."]
-#     i = 0
-#     while loading:
-#         loading_label.configure(text="🔄 Thinking" + dots[i % 4])
-#         i += 1
-#         time.sleep(0.4)
-#     loading_label.configure(text="")
-
-# # Gemini query function
-# def query_gemini(prompt_text):
-#     try:
-#         response = model.generate_content(prompt_text)
-#         return response.text
-#     except Exception as e:
-#         return f"❌ Error: {str(e)}"
-
-# # Main prediction handler
-# def predict_crop():
-#     global loading
-#     try:
-#         temp = float(temp_entry.get())
-#         hum = float(hum_entry.get())
-#         moist = float(moist_entry.get())
-
-#         loading = True
-#         Thread(target=loading_animation).start()
-
-#         prompt = (
-#             f"Based on the following environmental conditions, suggest the most suitable crop for a farmer to grow "
-#             f"and provide a short explanation in Hindi:\n\n"
-#             f"Temperature: {temp} °C\nHumidity: {hum} %\nSoil Moisture: {moist} %\n\n"
-#             f"Output Format:\n"
-#             f"Crop: <Crop Name>\nReason: <Explanation in Hindi>"
-#         )
-
-#         def run_query():
-#             result = query_gemini(prompt)
-#             result_label.configure(text=result, text_color="lightgreen")
-#             global loading
-#             loading = False
-
-#         Thread(target=run_query).start()
-
-#     except ValueError:
-#         messagebox.showerror("Input Error", "Please enter valid numbers.\nकृपया सही मान दर्ज करें।")
-
-# # Button
-# predict_btn = ctk.CTkButton(app, text="🌐 Predict with Gemini AI", width=300, height=45, command=predict_crop)
-# predict_btn.pack(pady=20)
-
-# # Start the app
-# app.mainloop()
-
 import customtkinter as ctk
 import serial
 import time
@@ -117,20 +18,41 @@ ctk.set_default_color_theme("green")
 
 # --- App UI Setup ---
 app = ctk.CTk()
-app.geometry("600x570")
-app.title("🌱 AI Crop Advisor (Live from Arduino)")
+app.geometry("650x720")
+app.title("🌱 AI Crop Advisor (Live from Arduino + Chatbot)")
 
 title_label = ctk.CTkLabel(app, text="🌿 Smart Farming Advisor", font=ctk.CTkFont(size=24, weight="bold"))
-title_label.pack(pady=15)
+title_label.pack(pady=10)
 
-data_display = ctk.CTkLabel(app, text="Waiting for sensor data...", font=ctk.CTkFont(size=14))
-data_display.pack(pady=10)
+# ===== Scrollable Frame =====
+scroll_frame = ctk.CTkScrollableFrame(app, width=620, height=620)
+scroll_frame.pack(pady=10)
 
-result_label = ctk.CTkLabel(app, text="", wraplength=550, justify="left", font=ctk.CTkFont(size=14))
-result_label.pack(pady=20)
+# ======= Sensor Section =======
+sensor_title = ctk.CTkLabel(scroll_frame, text="📟 Live Sensor Data", font=ctk.CTkFont(size=18, weight="bold"))
+sensor_title.pack(pady=(10, 5))
 
-loading_label = ctk.CTkLabel(app, text="", font=ctk.CTkFont(size=12))
+data_display = ctk.CTkLabel(scroll_frame, text="Waiting for sensor data...", font=ctk.CTkFont(size=14))
+data_display.pack(pady=5)
+
+result_label = ctk.CTkLabel(scroll_frame, text="", wraplength=580, justify="left", font=ctk.CTkFont(size=14))
+result_label.pack(pady=10)
+
+loading_label = ctk.CTkLabel(scroll_frame, text="", font=ctk.CTkFont(size=12))
 loading_label.pack()
+
+# ======= Chatbot Section =======
+chat_title = ctk.CTkLabel(scroll_frame, text="🧠 Ask Any Question (Farming Help)", font=ctk.CTkFont(size=18, weight="bold"))
+chat_title.pack(pady=(20, 5))
+
+chat_entry = ctk.CTkEntry(scroll_frame, placeholder_text="Type your farming question here...", width=500)
+chat_entry.pack(pady=5)
+
+chat_button = ctk.CTkButton(scroll_frame, text="Send", width=100)
+chat_button.pack(pady=5)
+
+chat_response_label = ctk.CTkLabel(scroll_frame, text="", wraplength=580, justify="left", font=ctk.CTkFont(size=14))
+chat_response_label.pack(pady=10)
 
 # -- Loading animation --
 loading = False
@@ -143,7 +65,7 @@ def animate_loading():
         time.sleep(0.5)
     loading_label.configure(text="")
 
-# -- Gemini prompt --
+# -- Gemini prompt for sensor data --
 def query_gemini(temp, hum, moist):
     prompt = (
         f"Suggest a suitable crop and give short reason in Hindi based on:\n"
@@ -156,7 +78,15 @@ def query_gemini(temp, hum, moist):
     except Exception as e:
         return f"❌ Error: {str(e)}"
 
-# -- Read Arduino and Predict --
+# -- Gemini prompt for chatbot --
+def ask_chatbot(question):
+    try:
+        response = model.generate_content(question)
+        return response.text
+    except Exception as e:
+        return f"❌ Error: {str(e)}"
+
+# -- Serial reading and prediction --
 def read_serial_and_predict():
     global loading
     try:
@@ -169,7 +99,7 @@ def read_serial_and_predict():
                 temp = float(match.group(1))
                 hum = float(match.group(2))
                 moist = int(match.group(3))
-                
+
                 display = f"🌡 Temp: {temp} °C | 💧 Humidity: {hum}% | 🌱 Soil: {moist}%"
                 data_display.configure(text=display)
 
@@ -184,10 +114,31 @@ def read_serial_and_predict():
 
                 Thread(target=ask_gemini).start()
 
-                time.sleep(10)  # Delay next prediction
+                time.sleep(10)
 
     except Exception as e:
         data_display.configure(text=f"❌ Serial Error: {e}")
+
+# -- Chatbot Button Action --
+def handle_chat():
+    question = chat_entry.get()
+    if not question.strip():
+        chat_response_label.configure(text="❗ Please type a question.")
+        return
+
+    global loading
+    loading = True
+    Thread(target=animate_loading).start()
+
+    def get_answer():
+        response = ask_chatbot(question + " (in very short)")
+        chat_response_label.configure(text=response, text_color="lightblue")
+        global loading
+        loading = False
+
+    Thread(target=get_answer).start()
+
+chat_button.configure(command=handle_chat)
 
 # -- Start Reading Serial in Background --
 Thread(target=read_serial_and_predict, daemon=True).start()
