@@ -1,0 +1,1001 @@
+temperature,humidity,soil_moisture,label,description
+31.7,79.5,63.7,Rice,"Requires warm, humid climate and plenty of water."
+22.7,70.2,88.8,Rice,"Requires warm, humid climate and plenty of water."
+33.0,81.7,60.5,Rice,"Requires warm, humid climate and plenty of water."
+24.8,71.0,69.3,Rice,"Requires warm, humid climate and plenty of water."
+30.1,81.9,70.0,Rice,"Requires warm, humid climate and plenty of water."
+29.7,72.6,70.1,Rice,"Requires warm, humid climate and plenty of water."
+30.9,77.2,66.2,Rice,"Requires warm, humid climate and plenty of water."
+20.4,71.9,66.0,Rice,"Requires warm, humid climate and plenty of water."
+20.2,72.5,82.0,Rice,"Requires warm, humid climate and plenty of water."
+26.3,71.1,83.9,Rice,"Requires warm, humid climate and plenty of water."
+20.3,85.2,68.5,Rice,"Requires warm, humid climate and plenty of water."
+25.3,84.9,69.9,Rice,"Requires warm, humid climate and plenty of water."
+31.9,82.2,63.5,Rice,"Requires warm, humid climate and plenty of water."
+25.3,84.2,61.0,Rice,"Requires warm, humid climate and plenty of water."
+32.4,75.0,80.7,Rice,"Requires warm, humid climate and plenty of water."
+24.1,77.8,64.7,Rice,"Requires warm, humid climate and plenty of water."
+28.2,74.7,62.2,Rice,"Requires warm, humid climate and plenty of water."
+34.8,73.3,68.9,Rice,"Requires warm, humid climate and plenty of water."
+29.1,77.2,61.4,Rice,"Requires warm, humid climate and plenty of water."
+27.5,77.9,76.3,Rice,"Requires warm, humid climate and plenty of water."
+25.3,75.5,88.5,Rice,"Requires warm, humid climate and plenty of water."
+29.5,89.7,72.3,Rice,"Requires warm, humid climate and plenty of water."
+26.5,77.4,84.1,Rice,"Requires warm, humid climate and plenty of water."
+25.7,86.3,72.4,Rice,"Requires warm, humid climate and plenty of water."
+30.9,76.8,68.6,Rice,"Requires warm, humid climate and plenty of water."
+30.3,83.2,61.7,Rice,"Requires warm, humid climate and plenty of water."
+23.7,81.3,67.4,Rice,"Requires warm, humid climate and plenty of water."
+27.6,87.0,62.7,Rice,"Requires warm, humid climate and plenty of water."
+20.8,89.8,81.9,Rice,"Requires warm, humid climate and plenty of water."
+30.6,82.7,79.2,Rice,"Requires warm, humid climate and plenty of water."
+29.4,73.8,67.4,Rice,"Requires warm, humid climate and plenty of water."
+23.5,80.8,60.4,Rice,"Requires warm, humid climate and plenty of water."
+24.8,79.9,69.4,Rice,"Requires warm, humid climate and plenty of water."
+30.0,80.6,60.5,Rice,"Requires warm, humid climate and plenty of water."
+23.8,76.1,61.3,Rice,"Requires warm, humid climate and plenty of water."
+31.2,86.6,73.8,Rice,"Requires warm, humid climate and plenty of water."
+26.7,81.8,86.2,Rice,"Requires warm, humid climate and plenty of water."
+27.1,75.3,81.5,Rice,"Requires warm, humid climate and plenty of water."
+25.9,76.3,66.8,Rice,"Requires warm, humid climate and plenty of water."
+20.4,87.6,88.4,Rice,"Requires warm, humid climate and plenty of water."
+28.6,79.9,62.7,Rice,"Requires warm, humid climate and plenty of water."
+31.0,89.3,64.6,Rice,"Requires warm, humid climate and plenty of water."
+34.9,77.0,84.1,Rice,"Requires warm, humid climate and plenty of water."
+32.7,71.9,89.0,Rice,"Requires warm, humid climate and plenty of water."
+32.1,80.9,76.7,Rice,"Requires warm, humid climate and plenty of water."
+20.1,73.4,80.9,Rice,"Requires warm, humid climate and plenty of water."
+26.1,74.0,66.8,Rice,"Requires warm, humid climate and plenty of water."
+23.1,86.6,78.9,Rice,"Requires warm, humid climate and plenty of water."
+34.3,87.6,61.6,Rice,"Requires warm, humid climate and plenty of water."
+24.1,86.9,65.5,Rice,"Requires warm, humid climate and plenty of water."
+33.2,74.5,62.6,Rice,"Requires warm, humid climate and plenty of water."
+25.8,74.2,80.7,Rice,"Requires warm, humid climate and plenty of water."
+24.0,80.0,88.2,Rice,"Requires warm, humid climate and plenty of water."
+31.4,77.0,78.5,Rice,"Requires warm, humid climate and plenty of water."
+24.8,87.8,80.8,Rice,"Requires warm, humid climate and plenty of water."
+23.1,82.5,79.2,Rice,"Requires warm, humid climate and plenty of water."
+22.7,82.9,82.9,Rice,"Requires warm, humid climate and plenty of water."
+21.7,81.7,66.0,Rice,"Requires warm, humid climate and plenty of water."
+34.4,79.5,72.1,Rice,"Requires warm, humid climate and plenty of water."
+23.7,78.1,75.6,Rice,"Requires warm, humid climate and plenty of water."
+29.3,81.5,83.0,Rice,"Requires warm, humid climate and plenty of water."
+32.4,76.6,86.8,Rice,"Requires warm, humid climate and plenty of water."
+24.1,79.5,73.6,Rice,"Requires warm, humid climate and plenty of water."
+30.6,84.9,86.4,Rice,"Requires warm, humid climate and plenty of water."
+20.4,86.4,62.6,Rice,"Requires warm, humid climate and plenty of water."
+34.1,87.9,72.8,Rice,"Requires warm, humid climate and plenty of water."
+28.1,75.9,61.9,Rice,"Requires warm, humid climate and plenty of water."
+21.1,74.5,65.0,Rice,"Requires warm, humid climate and plenty of water."
+22.4,84.8,84.7,Rice,"Requires warm, humid climate and plenty of water."
+21.2,79.7,69.5,Rice,"Requires warm, humid climate and plenty of water."
+20.8,76.3,84.3,Rice,"Requires warm, humid climate and plenty of water."
+23.4,70.9,77.3,Rice,"Requires warm, humid climate and plenty of water."
+23.1,89.3,86.2,Rice,"Requires warm, humid climate and plenty of water."
+21.2,70.1,71.2,Rice,"Requires warm, humid climate and plenty of water."
+20.1,83.9,64.0,Rice,"Requires warm, humid climate and plenty of water."
+32.2,89.4,62.4,Rice,"Requires warm, humid climate and plenty of water."
+26.5,72.7,82.9,Rice,"Requires warm, humid climate and plenty of water."
+29.6,75.1,61.0,Rice,"Requires warm, humid climate and plenty of water."
+22.8,80.4,83.2,Rice,"Requires warm, humid climate and plenty of water."
+32.5,75.9,74.7,Rice,"Requires warm, humid climate and plenty of water."
+33.3,87.5,66.8,Rice,"Requires warm, humid climate and plenty of water."
+21.7,72.5,65.2,Rice,"Requires warm, humid climate and plenty of water."
+21.4,83.1,72.6,Rice,"Requires warm, humid climate and plenty of water."
+31.5,78.6,69.4,Rice,"Requires warm, humid climate and plenty of water."
+22.3,82.3,65.9,Rice,"Requires warm, humid climate and plenty of water."
+29.0,78.0,87.4,Rice,"Requires warm, humid climate and plenty of water."
+21.7,82.2,67.6,Rice,"Requires warm, humid climate and plenty of water."
+23.6,88.5,73.9,Rice,"Requires warm, humid climate and plenty of water."
+29.7,70.4,69.9,Rice,"Requires warm, humid climate and plenty of water."
+28.5,76.8,81.3,Rice,"Requires warm, humid climate and plenty of water."
+22.2,81.4,79.2,Rice,"Requires warm, humid climate and plenty of water."
+32.6,71.9,77.7,Rice,"Requires warm, humid climate and plenty of water."
+22.5,73.5,79.9,Rice,"Requires warm, humid climate and plenty of water."
+29.5,76.5,81.7,Rice,"Requires warm, humid climate and plenty of water."
+20.3,73.0,80.4,Rice,"Requires warm, humid climate and plenty of water."
+26.3,79.3,65.8,Rice,"Requires warm, humid climate and plenty of water."
+32.6,77.5,69.3,Rice,"Requires warm, humid climate and plenty of water."
+30.1,86.1,89.4,Rice,"Requires warm, humid climate and plenty of water."
+20.3,70.2,84.8,Rice,"Requires warm, humid climate and plenty of water."
+25.9,72.6,66.8,Rice,"Requires warm, humid climate and plenty of water."
+25.0,68.6,48.7,Wheat,Thrives in cooler climates with moderate moisture.
+20.0,57.3,42.1,Wheat,Thrives in cooler climates with moderate moisture.
+12.4,64.9,40.1,Wheat,Thrives in cooler climates with moderate moisture.
+24.7,62.5,55.0,Wheat,Thrives in cooler climates with moderate moisture.
+10.2,53.7,52.8,Wheat,Thrives in cooler climates with moderate moisture.
+13.7,57.0,42.3,Wheat,Thrives in cooler climates with moderate moisture.
+10.5,52.2,45.0,Wheat,Thrives in cooler climates with moderate moisture.
+12.6,57.2,54.8,Wheat,Thrives in cooler climates with moderate moisture.
+13.8,68.3,49.8,Wheat,Thrives in cooler climates with moderate moisture.
+16.9,53.9,58.7,Wheat,Thrives in cooler climates with moderate moisture.
+10.8,65.5,42.2,Wheat,Thrives in cooler climates with moderate moisture.
+21.7,51.6,48.1,Wheat,Thrives in cooler climates with moderate moisture.
+21.0,51.0,48.3,Wheat,Thrives in cooler climates with moderate moisture.
+11.6,52.0,57.7,Wheat,Thrives in cooler climates with moderate moisture.
+21.2,53.5,59.4,Wheat,Thrives in cooler climates with moderate moisture.
+14.8,56.1,58.3,Wheat,Thrives in cooler climates with moderate moisture.
+21.5,55.0,52.8,Wheat,Thrives in cooler climates with moderate moisture.
+19.1,70.0,49.1,Wheat,Thrives in cooler climates with moderate moisture.
+10.7,55.8,56.0,Wheat,Thrives in cooler climates with moderate moisture.
+23.3,67.6,53.9,Wheat,Thrives in cooler climates with moderate moisture.
+23.4,68.8,44.1,Wheat,Thrives in cooler climates with moderate moisture.
+18.0,60.7,44.0,Wheat,Thrives in cooler climates with moderate moisture.
+14.8,68.5,52.9,Wheat,Thrives in cooler climates with moderate moisture.
+17.1,62.1,55.2,Wheat,Thrives in cooler climates with moderate moisture.
+24.9,69.8,56.0,Wheat,Thrives in cooler climates with moderate moisture.
+21.7,68.3,52.4,Wheat,Thrives in cooler climates with moderate moisture.
+17.7,64.9,46.5,Wheat,Thrives in cooler climates with moderate moisture.
+13.1,55.5,57.6,Wheat,Thrives in cooler climates with moderate moisture.
+23.4,60.1,53.8,Wheat,Thrives in cooler climates with moderate moisture.
+16.9,64.8,59.0,Wheat,Thrives in cooler climates with moderate moisture.
+23.7,56.4,51.0,Wheat,Thrives in cooler climates with moderate moisture.
+19.9,67.2,49.8,Wheat,Thrives in cooler climates with moderate moisture.
+13.6,67.7,40.5,Wheat,Thrives in cooler climates with moderate moisture.
+21.4,66.5,44.9,Wheat,Thrives in cooler climates with moderate moisture.
+12.6,65.6,45.0,Wheat,Thrives in cooler climates with moderate moisture.
+22.3,69.8,44.3,Wheat,Thrives in cooler climates with moderate moisture.
+18.8,58.4,53.9,Wheat,Thrives in cooler climates with moderate moisture.
+17.6,68.7,59.7,Wheat,Thrives in cooler climates with moderate moisture.
+18.7,57.6,49.4,Wheat,Thrives in cooler climates with moderate moisture.
+20.2,64.7,42.4,Wheat,Thrives in cooler climates with moderate moisture.
+14.8,66.1,53.3,Wheat,Thrives in cooler climates with moderate moisture.
+19.8,67.0,47.4,Wheat,Thrives in cooler climates with moderate moisture.
+20.8,55.9,45.7,Wheat,Thrives in cooler climates with moderate moisture.
+21.4,59.4,48.2,Wheat,Thrives in cooler climates with moderate moisture.
+12.2,60.5,57.7,Wheat,Thrives in cooler climates with moderate moisture.
+18.0,53.0,52.6,Wheat,Thrives in cooler climates with moderate moisture.
+23.9,65.2,50.5,Wheat,Thrives in cooler climates with moderate moisture.
+10.2,59.6,51.6,Wheat,Thrives in cooler climates with moderate moisture.
+21.7,64.5,55.4,Wheat,Thrives in cooler climates with moderate moisture.
+20.4,51.8,48.8,Wheat,Thrives in cooler climates with moderate moisture.
+20.3,65.7,54.6,Wheat,Thrives in cooler climates with moderate moisture.
+16.4,58.7,50.5,Wheat,Thrives in cooler climates with moderate moisture.
+10.4,53.7,48.8,Wheat,Thrives in cooler climates with moderate moisture.
+20.4,59.8,49.6,Wheat,Thrives in cooler climates with moderate moisture.
+21.8,61.0,40.3,Wheat,Thrives in cooler climates with moderate moisture.
+13.6,68.4,57.4,Wheat,Thrives in cooler climates with moderate moisture.
+18.3,50.9,47.2,Wheat,Thrives in cooler climates with moderate moisture.
+17.4,68.3,40.1,Wheat,Thrives in cooler climates with moderate moisture.
+10.3,53.5,51.9,Wheat,Thrives in cooler climates with moderate moisture.
+22.5,52.7,47.5,Wheat,Thrives in cooler climates with moderate moisture.
+15.4,60.1,40.7,Wheat,Thrives in cooler climates with moderate moisture.
+18.0,56.4,58.9,Wheat,Thrives in cooler climates with moderate moisture.
+19.3,59.7,56.6,Wheat,Thrives in cooler climates with moderate moisture.
+22.6,52.8,45.9,Wheat,Thrives in cooler climates with moderate moisture.
+13.8,69.3,48.9,Wheat,Thrives in cooler climates with moderate moisture.
+12.0,66.6,46.5,Wheat,Thrives in cooler climates with moderate moisture.
+11.9,67.8,59.3,Wheat,Thrives in cooler climates with moderate moisture.
+21.2,59.0,46.9,Wheat,Thrives in cooler climates with moderate moisture.
+20.3,58.1,45.9,Wheat,Thrives in cooler climates with moderate moisture.
+23.2,61.5,55.7,Wheat,Thrives in cooler climates with moderate moisture.
+19.4,64.4,46.9,Wheat,Thrives in cooler climates with moderate moisture.
+11.8,60.5,46.4,Wheat,Thrives in cooler climates with moderate moisture.
+22.9,63.3,41.0,Wheat,Thrives in cooler climates with moderate moisture.
+10.6,59.9,41.7,Wheat,Thrives in cooler climates with moderate moisture.
+14.2,58.2,56.1,Wheat,Thrives in cooler climates with moderate moisture.
+23.0,69.6,52.3,Wheat,Thrives in cooler climates with moderate moisture.
+11.0,62.3,47.2,Wheat,Thrives in cooler climates with moderate moisture.
+22.6,56.6,42.2,Wheat,Thrives in cooler climates with moderate moisture.
+18.6,63.2,53.2,Wheat,Thrives in cooler climates with moderate moisture.
+10.8,55.3,42.3,Wheat,Thrives in cooler climates with moderate moisture.
+23.6,55.5,56.6,Wheat,Thrives in cooler climates with moderate moisture.
+24.9,59.1,40.4,Wheat,Thrives in cooler climates with moderate moisture.
+13.3,68.4,49.5,Wheat,Thrives in cooler climates with moderate moisture.
+21.4,64.9,57.1,Wheat,Thrives in cooler climates with moderate moisture.
+17.0,63.5,42.3,Wheat,Thrives in cooler climates with moderate moisture.
+16.2,59.6,41.5,Wheat,Thrives in cooler climates with moderate moisture.
+15.3,59.8,53.6,Wheat,Thrives in cooler climates with moderate moisture.
+23.4,65.1,53.1,Wheat,Thrives in cooler climates with moderate moisture.
+11.3,50.0,51.6,Wheat,Thrives in cooler climates with moderate moisture.
+15.5,54.6,55.5,Wheat,Thrives in cooler climates with moderate moisture.
+22.1,60.3,47.8,Wheat,Thrives in cooler climates with moderate moisture.
+24.1,65.9,46.4,Wheat,Thrives in cooler climates with moderate moisture.
+13.6,64.4,41.7,Wheat,Thrives in cooler climates with moderate moisture.
+21.5,61.6,54.5,Wheat,Thrives in cooler climates with moderate moisture.
+10.6,68.0,55.6,Wheat,Thrives in cooler climates with moderate moisture.
+13.6,56.5,40.0,Wheat,Thrives in cooler climates with moderate moisture.
+23.3,52.2,57.5,Wheat,Thrives in cooler climates with moderate moisture.
+16.9,58.5,42.4,Wheat,Thrives in cooler climates with moderate moisture.
+18.7,59.0,48.9,Wheat,Thrives in cooler climates with moderate moisture.
+10.5,50.1,59.1,Wheat,Thrives in cooler climates with moderate moisture.
+20.4,64.0,51.5,Maize,Needs warm weather and moderate rainfall.
+25.1,66.6,50.8,Maize,Needs warm weather and moderate rainfall.
+18.8,75.3,49.3,Maize,Needs warm weather and moderate rainfall.
+19.8,59.3,54.7,Maize,Needs warm weather and moderate rainfall.
+21.8,56.8,65.0,Maize,Needs warm weather and moderate rainfall.
+24.7,71.3,59.2,Maize,Needs warm weather and moderate rainfall.
+20.2,60.0,47.3,Maize,Needs warm weather and moderate rainfall.
+23.9,56.6,65.6,Maize,Needs warm weather and moderate rainfall.
+22.5,51.1,69.2,Maize,Needs warm weather and moderate rainfall.
+21.6,78.7,69.1,Maize,Needs warm weather and moderate rainfall.
+22.4,75.6,49.9,Maize,Needs warm weather and moderate rainfall.
+20.0,62.4,52.6,Maize,Needs warm weather and moderate rainfall.
+22.9,76.1,67.3,Maize,Needs warm weather and moderate rainfall.
+24.6,59.1,69.6,Maize,Needs warm weather and moderate rainfall.
+23.3,66.1,69.1,Maize,Needs warm weather and moderate rainfall.
+19.2,80.0,61.6,Maize,Needs warm weather and moderate rainfall.
+26.6,57.3,53.9,Maize,Needs warm weather and moderate rainfall.
+26.4,53.0,70.0,Maize,Needs warm weather and moderate rainfall.
+18.7,78.6,41.7,Maize,Needs warm weather and moderate rainfall.
+22.1,59.6,60.4,Maize,Needs warm weather and moderate rainfall.
+22.1,54.5,41.7,Maize,Needs warm weather and moderate rainfall.
+22.0,71.3,43.7,Maize,Needs warm weather and moderate rainfall.
+23.8,74.1,67.0,Maize,Needs warm weather and moderate rainfall.
+22.7,77.2,67.4,Maize,Needs warm weather and moderate rainfall.
+25.4,75.4,68.1,Maize,Needs warm weather and moderate rainfall.
+19.0,55.5,52.5,Maize,Needs warm weather and moderate rainfall.
+18.4,60.9,51.5,Maize,Needs warm weather and moderate rainfall.
+22.3,60.3,48.0,Maize,Needs warm weather and moderate rainfall.
+22.0,68.5,53.8,Maize,Needs warm weather and moderate rainfall.
+25.7,69.1,45.8,Maize,Needs warm weather and moderate rainfall.
+23.0,70.8,46.8,Maize,Needs warm weather and moderate rainfall.
+19.3,51.6,66.6,Maize,Needs warm weather and moderate rainfall.
+20.0,69.9,46.3,Maize,Needs warm weather and moderate rainfall.
+24.1,50.5,42.6,Maize,Needs warm weather and moderate rainfall.
+23.1,55.0,67.4,Maize,Needs warm weather and moderate rainfall.
+20.7,77.7,51.4,Maize,Needs warm weather and moderate rainfall.
+23.8,68.4,57.4,Maize,Needs warm weather and moderate rainfall.
+24.3,70.3,62.8,Maize,Needs warm weather and moderate rainfall.
+18.3,69.7,45.6,Maize,Needs warm weather and moderate rainfall.
+20.2,65.2,59.8,Maize,Needs warm weather and moderate rainfall.
+20.7,71.1,58.8,Maize,Needs warm weather and moderate rainfall.
+23.8,66.2,55.0,Maize,Needs warm weather and moderate rainfall.
+21.8,58.9,49.4,Maize,Needs warm weather and moderate rainfall.
+23.8,72.0,69.0,Maize,Needs warm weather and moderate rainfall.
+23.0,73.1,55.1,Maize,Needs warm weather and moderate rainfall.
+23.5,52.7,49.6,Maize,Needs warm weather and moderate rainfall.
+24.2,77.2,50.8,Maize,Needs warm weather and moderate rainfall.
+18.1,73.3,65.6,Maize,Needs warm weather and moderate rainfall.
+26.8,64.7,41.2,Maize,Needs warm weather and moderate rainfall.
+20.2,78.6,59.1,Maize,Needs warm weather and moderate rainfall.
+19.5,64.0,58.2,Maize,Needs warm weather and moderate rainfall.
+21.8,79.8,56.1,Maize,Needs warm weather and moderate rainfall.
+19.1,76.6,51.2,Maize,Needs warm weather and moderate rainfall.
+19.4,74.8,47.7,Maize,Needs warm weather and moderate rainfall.
+18.8,51.5,41.7,Maize,Needs warm weather and moderate rainfall.
+20.0,61.2,68.7,Maize,Needs warm weather and moderate rainfall.
+18.4,58.7,54.8,Maize,Needs warm weather and moderate rainfall.
+23.0,62.9,44.1,Maize,Needs warm weather and moderate rainfall.
+24.5,52.0,64.9,Maize,Needs warm weather and moderate rainfall.
+19.2,70.2,59.9,Maize,Needs warm weather and moderate rainfall.
+21.6,63.9,55.7,Maize,Needs warm weather and moderate rainfall.
+26.3,51.4,43.0,Maize,Needs warm weather and moderate rainfall.
+26.0,63.0,60.6,Maize,Needs warm weather and moderate rainfall.
+18.6,50.4,44.6,Maize,Needs warm weather and moderate rainfall.
+19.7,66.7,50.7,Maize,Needs warm weather and moderate rainfall.
+19.5,57.2,45.8,Maize,Needs warm weather and moderate rainfall.
+21.7,77.8,40.1,Maize,Needs warm weather and moderate rainfall.
+19.4,66.5,58.3,Maize,Needs warm weather and moderate rainfall.
+22.6,58.1,56.5,Maize,Needs warm weather and moderate rainfall.
+21.8,69.6,47.7,Maize,Needs warm weather and moderate rainfall.
+21.0,74.6,61.8,Maize,Needs warm weather and moderate rainfall.
+22.9,78.2,54.1,Maize,Needs warm weather and moderate rainfall.
+23.6,60.5,49.6,Maize,Needs warm weather and moderate rainfall.
+19.5,54.4,53.9,Maize,Needs warm weather and moderate rainfall.
+23.3,69.2,47.2,Maize,Needs warm weather and moderate rainfall.
+21.2,71.3,41.2,Maize,Needs warm weather and moderate rainfall.
+25.0,66.1,52.4,Maize,Needs warm weather and moderate rainfall.
+21.9,56.1,66.0,Maize,Needs warm weather and moderate rainfall.
+22.3,50.3,56.0,Maize,Needs warm weather and moderate rainfall.
+26.6,63.4,45.6,Maize,Needs warm weather and moderate rainfall.
+23.0,54.9,67.1,Maize,Needs warm weather and moderate rainfall.
+24.4,59.5,50.0,Maize,Needs warm weather and moderate rainfall.
+19.4,72.0,50.8,Maize,Needs warm weather and moderate rainfall.
+22.5,58.0,56.3,Maize,Needs warm weather and moderate rainfall.
+21.1,54.8,43.6,Maize,Needs warm weather and moderate rainfall.
+25.4,51.7,63.4,Maize,Needs warm weather and moderate rainfall.
+22.4,75.4,64.8,Maize,Needs warm weather and moderate rainfall.
+24.4,79.1,65.8,Maize,Needs warm weather and moderate rainfall.
+24.2,71.7,59.2,Maize,Needs warm weather and moderate rainfall.
+25.0,75.9,43.7,Maize,Needs warm weather and moderate rainfall.
+19.9,58.0,60.1,Maize,Needs warm weather and moderate rainfall.
+19.3,73.6,46.6,Maize,Needs warm weather and moderate rainfall.
+23.0,68.3,50.5,Maize,Needs warm weather and moderate rainfall.
+18.3,59.9,41.9,Maize,Needs warm weather and moderate rainfall.
+25.8,56.6,53.0,Maize,Needs warm weather and moderate rainfall.
+20.6,77.4,49.1,Maize,Needs warm weather and moderate rainfall.
+26.6,65.7,44.8,Maize,Needs warm weather and moderate rainfall.
+19.0,55.3,56.9,Maize,Needs warm weather and moderate rainfall.
+23.6,74.6,66.3,Maize,Needs warm weather and moderate rainfall.
+23.8,53.4,40.2,Maize,Needs warm weather and moderate rainfall.
+29.4,73.4,72.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+32.8,72.4,68.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+26.5,68.3,86.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.6,79.7,92.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.4,74.3,70.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.6,65.7,78.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.3,78.1,91.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.2,83.3,84.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.1,70.1,95.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.9,82.0,93.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.1,80.3,94.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+26.4,60.1,93.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.7,69.0,77.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.6,66.4,78.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.3,71.4,91.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.0,69.7,97.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+32.2,62.5,74.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.9,66.8,90.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.5,79.0,89.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.4,65.5,81.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.3,61.6,80.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.2,62.5,68.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+32.2,79.7,73.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.1,62.6,88.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+21.2,64.5,74.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.9,65.9,96.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+27.4,66.4,65.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.7,70.8,87.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.9,72.9,88.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.4,60.1,98.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.5,79.6,67.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.6,61.3,70.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.2,63.0,92.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.1,72.2,74.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.2,61.6,84.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.9,84.5,80.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.0,77.6,82.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.5,72.5,72.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.5,84.6,72.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.2,65.5,68.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.3,71.3,69.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.7,73.3,68.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.6,81.4,66.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.4,60.9,92.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.7,66.2,93.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.5,80.6,78.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.6,75.7,97.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.2,60.8,84.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.6,81.1,68.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.4,60.9,94.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.0,73.8,84.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.4,68.1,72.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.0,60.2,82.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.8,83.1,86.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.3,76.1,94.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.7,66.4,94.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.5,76.7,91.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.0,75.7,68.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.7,79.4,80.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.2,84.7,70.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.7,66.6,70.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.2,60.4,77.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.8,73.0,69.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.7,63.2,69.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.3,62.9,67.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.5,80.3,89.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.1,75.7,77.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.2,83.1,73.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+27.7,74.3,88.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.7,69.7,91.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.1,64.9,85.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+21.8,80.8,98.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.8,76.0,84.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+27.0,70.5,97.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.1,60.9,88.5,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.1,82.8,92.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+26.7,83.8,78.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.5,72.1,81.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.8,60.7,76.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+34.1,81.0,88.3,Sugarcane,Grows well in tropical climates with high soil moisture.
+30.2,66.4,79.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.1,82.3,85.8,Sugarcane,Grows well in tropical climates with high soil moisture.
+32.3,73.8,75.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.4,82.7,83.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.7,82.8,82.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+26.7,71.1,95.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.6,66.1,86.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+21.8,66.9,77.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.7,83.8,66.2,Sugarcane,Grows well in tropical climates with high soil moisture.
+23.9,60.6,92.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+27.8,68.8,77.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+33.6,79.9,65.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+22.1,82.2,91.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.0,67.6,79.7,Sugarcane,Grows well in tropical climates with high soil moisture.
+25.8,64.7,68.6,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.3,67.3,76.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+31.1,69.4,82.1,Sugarcane,Grows well in tropical climates with high soil moisture.
+21.1,65.0,90.0,Sugarcane,Grows well in tropical climates with high soil moisture.
+28.2,69.6,86.9,Sugarcane,Grows well in tropical climates with high soil moisture.
+24.0,74.9,66.4,Sugarcane,Grows well in tropical climates with high soil moisture.
+29.2,41.9,48.7,Cotton,Prefers dry climates and well-drained soil.
+27.1,54.7,41.0,Cotton,Prefers dry climates and well-drained soil.
+27.6,56.9,36.3,Cotton,Prefers dry climates and well-drained soil.
+29.3,41.9,34.0,Cotton,Prefers dry climates and well-drained soil.
+24.2,54.9,38.7,Cotton,Prefers dry climates and well-drained soil.
+22.9,58.7,38.2,Cotton,Prefers dry climates and well-drained soil.
+20.2,42.3,33.6,Cotton,Prefers dry climates and well-drained soil.
+27.9,46.2,39.2,Cotton,Prefers dry climates and well-drained soil.
+21.9,55.4,48.9,Cotton,Prefers dry climates and well-drained soil.
+22.6,59.6,40.0,Cotton,Prefers dry climates and well-drained soil.
+21.0,54.0,32.6,Cotton,Prefers dry climates and well-drained soil.
+21.3,47.5,41.8,Cotton,Prefers dry climates and well-drained soil.
+29.9,40.8,33.5,Cotton,Prefers dry climates and well-drained soil.
+24.1,47.7,45.4,Cotton,Prefers dry climates and well-drained soil.
+22.1,44.5,45.8,Cotton,Prefers dry climates and well-drained soil.
+28.1,56.1,30.9,Cotton,Prefers dry climates and well-drained soil.
+20.6,60.0,37.6,Cotton,Prefers dry climates and well-drained soil.
+29.6,41.7,34.7,Cotton,Prefers dry climates and well-drained soil.
+26.8,45.3,30.1,Cotton,Prefers dry climates and well-drained soil.
+23.6,58.8,33.2,Cotton,Prefers dry climates and well-drained soil.
+22.4,41.8,31.0,Cotton,Prefers dry climates and well-drained soil.
+23.2,41.1,42.9,Cotton,Prefers dry climates and well-drained soil.
+23.6,49.5,44.4,Cotton,Prefers dry climates and well-drained soil.
+25.5,53.9,40.8,Cotton,Prefers dry climates and well-drained soil.
+27.7,41.3,48.5,Cotton,Prefers dry climates and well-drained soil.
+26.2,44.9,30.1,Cotton,Prefers dry climates and well-drained soil.
+22.8,56.1,36.4,Cotton,Prefers dry climates and well-drained soil.
+28.9,57.8,41.4,Cotton,Prefers dry climates and well-drained soil.
+23.7,46.8,34.5,Cotton,Prefers dry climates and well-drained soil.
+25.4,45.3,31.7,Cotton,Prefers dry climates and well-drained soil.
+26.6,42.9,32.6,Cotton,Prefers dry climates and well-drained soil.
+26.3,56.8,36.6,Cotton,Prefers dry climates and well-drained soil.
+23.1,56.0,46.6,Cotton,Prefers dry climates and well-drained soil.
+25.7,54.9,35.5,Cotton,Prefers dry climates and well-drained soil.
+21.3,57.9,47.4,Cotton,Prefers dry climates and well-drained soil.
+29.1,46.3,38.6,Cotton,Prefers dry climates and well-drained soil.
+23.7,51.3,42.8,Cotton,Prefers dry climates and well-drained soil.
+23.1,41.5,31.2,Cotton,Prefers dry climates and well-drained soil.
+28.1,49.7,45.6,Cotton,Prefers dry climates and well-drained soil.
+22.3,52.0,33.2,Cotton,Prefers dry climates and well-drained soil.
+25.2,59.1,32.4,Cotton,Prefers dry climates and well-drained soil.
+21.9,43.8,41.1,Cotton,Prefers dry climates and well-drained soil.
+29.6,43.6,49.0,Cotton,Prefers dry climates and well-drained soil.
+27.0,56.5,32.0,Cotton,Prefers dry climates and well-drained soil.
+26.5,47.5,38.5,Cotton,Prefers dry climates and well-drained soil.
+22.6,56.6,39.3,Cotton,Prefers dry climates and well-drained soil.
+25.9,45.5,38.0,Cotton,Prefers dry climates and well-drained soil.
+21.8,49.4,38.1,Cotton,Prefers dry climates and well-drained soil.
+22.2,56.1,37.3,Cotton,Prefers dry climates and well-drained soil.
+23.3,40.1,37.6,Cotton,Prefers dry climates and well-drained soil.
+26.9,52.1,33.8,Cotton,Prefers dry climates and well-drained soil.
+20.2,53.6,40.2,Cotton,Prefers dry climates and well-drained soil.
+22.7,40.9,36.2,Cotton,Prefers dry climates and well-drained soil.
+24.0,50.3,45.3,Cotton,Prefers dry climates and well-drained soil.
+21.3,51.9,33.4,Cotton,Prefers dry climates and well-drained soil.
+27.4,57.0,44.2,Cotton,Prefers dry climates and well-drained soil.
+23.8,58.8,41.8,Cotton,Prefers dry climates and well-drained soil.
+25.2,52.5,42.9,Cotton,Prefers dry climates and well-drained soil.
+22.8,42.2,30.6,Cotton,Prefers dry climates and well-drained soil.
+21.3,44.2,31.3,Cotton,Prefers dry climates and well-drained soil.
+25.5,56.6,32.1,Cotton,Prefers dry climates and well-drained soil.
+22.9,58.1,45.0,Cotton,Prefers dry climates and well-drained soil.
+22.5,54.2,42.3,Cotton,Prefers dry climates and well-drained soil.
+22.4,41.3,41.4,Cotton,Prefers dry climates and well-drained soil.
+25.4,40.3,35.4,Cotton,Prefers dry climates and well-drained soil.
+22.4,55.1,31.4,Cotton,Prefers dry climates and well-drained soil.
+28.9,41.8,31.3,Cotton,Prefers dry climates and well-drained soil.
+21.2,51.6,33.5,Cotton,Prefers dry climates and well-drained soil.
+25.8,58.5,32.4,Cotton,Prefers dry climates and well-drained soil.
+28.1,47.6,33.1,Cotton,Prefers dry climates and well-drained soil.
+26.6,46.0,48.5,Cotton,Prefers dry climates and well-drained soil.
+29.0,47.5,39.0,Cotton,Prefers dry climates and well-drained soil.
+21.2,43.9,43.5,Cotton,Prefers dry climates and well-drained soil.
+25.5,54.7,44.5,Cotton,Prefers dry climates and well-drained soil.
+28.9,56.9,37.6,Cotton,Prefers dry climates and well-drained soil.
+22.6,58.0,45.6,Cotton,Prefers dry climates and well-drained soil.
+29.7,44.1,30.9,Cotton,Prefers dry climates and well-drained soil.
+21.2,58.9,45.9,Cotton,Prefers dry climates and well-drained soil.
+24.8,49.6,43.6,Cotton,Prefers dry climates and well-drained soil.
+29.7,48.4,38.1,Cotton,Prefers dry climates and well-drained soil.
+23.0,49.0,35.4,Cotton,Prefers dry climates and well-drained soil.
+24.7,47.0,31.1,Cotton,Prefers dry climates and well-drained soil.
+24.6,57.1,43.5,Cotton,Prefers dry climates and well-drained soil.
+24.9,51.7,38.4,Cotton,Prefers dry climates and well-drained soil.
+24.4,55.2,37.0,Cotton,Prefers dry climates and well-drained soil.
+27.3,44.0,45.5,Cotton,Prefers dry climates and well-drained soil.
+21.2,54.1,47.4,Cotton,Prefers dry climates and well-drained soil.
+26.9,58.9,35.6,Cotton,Prefers dry climates and well-drained soil.
+29.0,50.3,36.5,Cotton,Prefers dry climates and well-drained soil.
+23.1,49.5,36.3,Cotton,Prefers dry climates and well-drained soil.
+29.3,42.8,34.5,Cotton,Prefers dry climates and well-drained soil.
+28.2,43.7,44.5,Cotton,Prefers dry climates and well-drained soil.
+23.7,51.1,39.3,Cotton,Prefers dry climates and well-drained soil.
+28.3,48.1,40.2,Cotton,Prefers dry climates and well-drained soil.
+26.3,40.7,44.9,Cotton,Prefers dry climates and well-drained soil.
+25.0,43.4,35.2,Cotton,Prefers dry climates and well-drained soil.
+21.8,54.2,49.9,Cotton,Prefers dry climates and well-drained soil.
+21.6,55.4,31.1,Cotton,Prefers dry climates and well-drained soil.
+27.8,56.6,31.9,Cotton,Prefers dry climates and well-drained soil.
+21.9,43.4,39.8,Cotton,Prefers dry climates and well-drained soil.
+16.5,40.9,41.5,Barley,Tolerates dry and cool climates.
+13.4,55.2,48.3,Barley,Tolerates dry and cool climates.
+14.0,54.5,44.6,Barley,Tolerates dry and cool climates.
+14.8,35.2,41.4,Barley,Tolerates dry and cool climates.
+16.0,39.4,35.4,Barley,Tolerates dry and cool climates.
+15.0,36.3,49.6,Barley,Tolerates dry and cool climates.
+19.8,39.7,47.2,Barley,Tolerates dry and cool climates.
+14.2,38.1,38.6,Barley,Tolerates dry and cool climates.
+15.3,48.3,36.4,Barley,Tolerates dry and cool climates.
+11.4,51.8,39.5,Barley,Tolerates dry and cool climates.
+10.4,57.7,41.7,Barley,Tolerates dry and cool climates.
+14.9,43.9,44.6,Barley,Tolerates dry and cool climates.
+16.6,41.5,45.0,Barley,Tolerates dry and cool climates.
+16.9,45.4,36.6,Barley,Tolerates dry and cool climates.
+13.8,31.8,49.9,Barley,Tolerates dry and cool climates.
+16.8,46.3,41.3,Barley,Tolerates dry and cool climates.
+18.8,42.4,34.8,Barley,Tolerates dry and cool climates.
+13.4,47.3,46.8,Barley,Tolerates dry and cool climates.
+13.6,44.4,46.6,Barley,Tolerates dry and cool climates.
+10.5,57.2,37.5,Barley,Tolerates dry and cool climates.
+18.2,41.6,46.8,Barley,Tolerates dry and cool climates.
+15.9,55.9,39.8,Barley,Tolerates dry and cool climates.
+10.7,45.2,33.9,Barley,Tolerates dry and cool climates.
+17.1,52.6,44.6,Barley,Tolerates dry and cool climates.
+18.3,30.1,46.3,Barley,Tolerates dry and cool climates.
+14.9,55.9,45.4,Barley,Tolerates dry and cool climates.
+15.5,51.2,42.7,Barley,Tolerates dry and cool climates.
+10.7,59.8,36.3,Barley,Tolerates dry and cool climates.
+11.1,40.7,33.1,Barley,Tolerates dry and cool climates.
+11.6,31.4,48.1,Barley,Tolerates dry and cool climates.
+18.1,34.2,48.9,Barley,Tolerates dry and cool climates.
+17.5,47.9,40.5,Barley,Tolerates dry and cool climates.
+10.6,57.6,36.3,Barley,Tolerates dry and cool climates.
+14.4,55.1,38.3,Barley,Tolerates dry and cool climates.
+19.8,30.4,45.1,Barley,Tolerates dry and cool climates.
+19.9,59.4,32.0,Barley,Tolerates dry and cool climates.
+15.6,56.8,32.8,Barley,Tolerates dry and cool climates.
+10.7,34.8,42.4,Barley,Tolerates dry and cool climates.
+11.0,43.6,35.0,Barley,Tolerates dry and cool climates.
+16.4,33.8,33.8,Barley,Tolerates dry and cool climates.
+15.4,46.9,33.2,Barley,Tolerates dry and cool climates.
+14.9,55.6,34.9,Barley,Tolerates dry and cool climates.
+16.9,56.9,39.7,Barley,Tolerates dry and cool climates.
+15.8,56.4,35.3,Barley,Tolerates dry and cool climates.
+16.6,47.8,31.8,Barley,Tolerates dry and cool climates.
+17.5,46.0,45.2,Barley,Tolerates dry and cool climates.
+16.1,30.9,49.8,Barley,Tolerates dry and cool climates.
+18.3,57.6,33.1,Barley,Tolerates dry and cool climates.
+17.9,50.1,48.5,Barley,Tolerates dry and cool climates.
+14.3,33.9,40.8,Barley,Tolerates dry and cool climates.
+12.0,31.3,39.0,Barley,Tolerates dry and cool climates.
+17.0,55.5,44.6,Barley,Tolerates dry and cool climates.
+12.6,43.9,30.8,Barley,Tolerates dry and cool climates.
+10.4,44.2,33.1,Barley,Tolerates dry and cool climates.
+15.5,39.3,40.9,Barley,Tolerates dry and cool climates.
+13.9,41.3,34.4,Barley,Tolerates dry and cool climates.
+15.6,47.8,40.1,Barley,Tolerates dry and cool climates.
+13.3,51.7,36.3,Barley,Tolerates dry and cool climates.
+11.5,40.8,36.8,Barley,Tolerates dry and cool climates.
+15.6,42.4,48.5,Barley,Tolerates dry and cool climates.
+19.6,40.8,36.8,Barley,Tolerates dry and cool climates.
+10.5,41.2,40.0,Barley,Tolerates dry and cool climates.
+11.9,42.5,48.3,Barley,Tolerates dry and cool climates.
+14.2,50.5,41.8,Barley,Tolerates dry and cool climates.
+19.9,48.1,32.0,Barley,Tolerates dry and cool climates.
+13.3,38.6,30.5,Barley,Tolerates dry and cool climates.
+15.6,45.6,34.8,Barley,Tolerates dry and cool climates.
+10.6,33.0,39.1,Barley,Tolerates dry and cool climates.
+10.0,35.6,40.5,Barley,Tolerates dry and cool climates.
+10.0,36.2,45.4,Barley,Tolerates dry and cool climates.
+15.2,56.3,45.7,Barley,Tolerates dry and cool climates.
+16.3,41.4,40.3,Barley,Tolerates dry and cool climates.
+10.2,41.8,32.4,Barley,Tolerates dry and cool climates.
+13.4,43.0,43.7,Barley,Tolerates dry and cool climates.
+12.5,40.2,44.1,Barley,Tolerates dry and cool climates.
+17.4,56.0,37.9,Barley,Tolerates dry and cool climates.
+14.4,57.1,44.1,Barley,Tolerates dry and cool climates.
+12.3,49.7,30.7,Barley,Tolerates dry and cool climates.
+10.8,47.3,38.4,Barley,Tolerates dry and cool climates.
+20.0,31.9,34.9,Barley,Tolerates dry and cool climates.
+13.8,59.2,30.8,Barley,Tolerates dry and cool climates.
+18.3,30.2,33.3,Barley,Tolerates dry and cool climates.
+12.0,41.2,30.9,Barley,Tolerates dry and cool climates.
+16.9,58.1,38.4,Barley,Tolerates dry and cool climates.
+12.5,49.2,49.6,Barley,Tolerates dry and cool climates.
+19.1,50.0,46.6,Barley,Tolerates dry and cool climates.
+18.7,56.3,39.0,Barley,Tolerates dry and cool climates.
+18.9,44.7,39.9,Barley,Tolerates dry and cool climates.
+17.2,46.7,30.7,Barley,Tolerates dry and cool climates.
+16.9,44.9,34.8,Barley,Tolerates dry and cool climates.
+13.0,50.0,30.2,Barley,Tolerates dry and cool climates.
+14.8,39.2,37.5,Barley,Tolerates dry and cool climates.
+18.2,43.8,30.5,Barley,Tolerates dry and cool climates.
+15.6,42.5,34.7,Barley,Tolerates dry and cool climates.
+10.8,38.3,31.6,Barley,Tolerates dry and cool climates.
+11.1,42.2,38.9,Barley,Tolerates dry and cool climates.
+17.4,50.7,39.3,Barley,Tolerates dry and cool climates.
+10.7,55.0,46.2,Barley,Tolerates dry and cool climates.
+10.8,43.5,48.6,Barley,Tolerates dry and cool climates.
+19.6,35.1,32.2,Barley,Tolerates dry and cool climates.
+26.6,46.0,37.2,Millets,"Drought-resistant, suitable for dry climates."
+25.8,55.7,40.7,Millets,"Drought-resistant, suitable for dry climates."
+26.1,51.7,40.8,Millets,"Drought-resistant, suitable for dry climates."
+31.3,44.5,45.2,Millets,"Drought-resistant, suitable for dry climates."
+23.6,47.4,47.7,Millets,"Drought-resistant, suitable for dry climates."
+31.2,57.4,31.7,Millets,"Drought-resistant, suitable for dry climates."
+31.3,43.2,49.7,Millets,"Drought-resistant, suitable for dry climates."
+29.1,51.2,38.0,Millets,"Drought-resistant, suitable for dry climates."
+27.4,54.8,42.6,Millets,"Drought-resistant, suitable for dry climates."
+26.6,45.1,42.0,Millets,"Drought-resistant, suitable for dry climates."
+23.3,52.8,35.1,Millets,"Drought-resistant, suitable for dry climates."
+22.6,53.9,49.7,Millets,"Drought-resistant, suitable for dry climates."
+23.9,41.8,46.6,Millets,"Drought-resistant, suitable for dry climates."
+29.1,55.0,42.9,Millets,"Drought-resistant, suitable for dry climates."
+30.2,53.0,49.0,Millets,"Drought-resistant, suitable for dry climates."
+31.7,40.1,44.6,Millets,"Drought-resistant, suitable for dry climates."
+31.4,54.1,34.2,Millets,"Drought-resistant, suitable for dry climates."
+22.8,40.4,41.3,Millets,"Drought-resistant, suitable for dry climates."
+30.4,43.1,46.2,Millets,"Drought-resistant, suitable for dry climates."
+28.5,40.4,37.2,Millets,"Drought-resistant, suitable for dry climates."
+29.8,49.0,32.4,Millets,"Drought-resistant, suitable for dry climates."
+31.6,54.5,49.0,Millets,"Drought-resistant, suitable for dry climates."
+28.0,44.4,44.5,Millets,"Drought-resistant, suitable for dry climates."
+25.7,50.6,31.4,Millets,"Drought-resistant, suitable for dry climates."
+29.4,57.2,47.9,Millets,"Drought-resistant, suitable for dry climates."
+27.6,45.9,45.1,Millets,"Drought-resistant, suitable for dry climates."
+23.4,43.3,34.9,Millets,"Drought-resistant, suitable for dry climates."
+23.6,47.5,43.3,Millets,"Drought-resistant, suitable for dry climates."
+23.5,45.6,39.8,Millets,"Drought-resistant, suitable for dry climates."
+26.2,58.7,36.5,Millets,"Drought-resistant, suitable for dry climates."
+26.4,51.2,34.8,Millets,"Drought-resistant, suitable for dry climates."
+30.4,58.4,42.1,Millets,"Drought-resistant, suitable for dry climates."
+25.0,40.3,31.0,Millets,"Drought-resistant, suitable for dry climates."
+27.0,46.6,35.6,Millets,"Drought-resistant, suitable for dry climates."
+31.7,44.2,44.8,Millets,"Drought-resistant, suitable for dry climates."
+22.9,50.4,45.8,Millets,"Drought-resistant, suitable for dry climates."
+27.5,54.6,45.2,Millets,"Drought-resistant, suitable for dry climates."
+27.3,41.1,49.8,Millets,"Drought-resistant, suitable for dry climates."
+31.7,50.3,33.0,Millets,"Drought-resistant, suitable for dry climates."
+26.3,41.1,30.2,Millets,"Drought-resistant, suitable for dry climates."
+22.4,45.2,40.6,Millets,"Drought-resistant, suitable for dry climates."
+22.0,56.1,40.8,Millets,"Drought-resistant, suitable for dry climates."
+29.9,58.3,39.7,Millets,"Drought-resistant, suitable for dry climates."
+24.0,47.0,31.7,Millets,"Drought-resistant, suitable for dry climates."
+27.9,40.6,33.1,Millets,"Drought-resistant, suitable for dry climates."
+23.4,46.9,47.8,Millets,"Drought-resistant, suitable for dry climates."
+24.3,47.8,36.4,Millets,"Drought-resistant, suitable for dry climates."
+24.3,52.0,39.3,Millets,"Drought-resistant, suitable for dry climates."
+24.3,48.7,47.2,Millets,"Drought-resistant, suitable for dry climates."
+22.8,42.8,32.1,Millets,"Drought-resistant, suitable for dry climates."
+29.2,46.1,48.1,Millets,"Drought-resistant, suitable for dry climates."
+31.9,55.6,43.0,Millets,"Drought-resistant, suitable for dry climates."
+23.9,44.3,34.1,Millets,"Drought-resistant, suitable for dry climates."
+28.4,54.5,46.3,Millets,"Drought-resistant, suitable for dry climates."
+29.3,57.4,37.3,Millets,"Drought-resistant, suitable for dry climates."
+25.4,54.9,40.8,Millets,"Drought-resistant, suitable for dry climates."
+22.2,51.3,43.3,Millets,"Drought-resistant, suitable for dry climates."
+31.4,46.5,36.2,Millets,"Drought-resistant, suitable for dry climates."
+24.6,49.1,40.4,Millets,"Drought-resistant, suitable for dry climates."
+24.7,44.8,45.4,Millets,"Drought-resistant, suitable for dry climates."
+30.0,44.0,34.3,Millets,"Drought-resistant, suitable for dry climates."
+27.9,49.5,37.8,Millets,"Drought-resistant, suitable for dry climates."
+30.9,56.1,48.4,Millets,"Drought-resistant, suitable for dry climates."
+25.8,51.2,36.3,Millets,"Drought-resistant, suitable for dry climates."
+28.2,56.1,37.1,Millets,"Drought-resistant, suitable for dry climates."
+24.3,42.6,37.6,Millets,"Drought-resistant, suitable for dry climates."
+28.1,50.9,43.0,Millets,"Drought-resistant, suitable for dry climates."
+25.4,48.2,48.3,Millets,"Drought-resistant, suitable for dry climates."
+28.4,53.6,41.7,Millets,"Drought-resistant, suitable for dry climates."
+28.2,48.9,37.2,Millets,"Drought-resistant, suitable for dry climates."
+25.1,48.7,32.9,Millets,"Drought-resistant, suitable for dry climates."
+30.2,51.0,39.1,Millets,"Drought-resistant, suitable for dry climates."
+27.5,59.4,36.4,Millets,"Drought-resistant, suitable for dry climates."
+30.8,55.2,34.2,Millets,"Drought-resistant, suitable for dry climates."
+26.4,45.7,38.7,Millets,"Drought-resistant, suitable for dry climates."
+23.7,56.5,42.7,Millets,"Drought-resistant, suitable for dry climates."
+29.4,56.7,40.8,Millets,"Drought-resistant, suitable for dry climates."
+22.6,52.4,40.0,Millets,"Drought-resistant, suitable for dry climates."
+29.9,40.1,38.8,Millets,"Drought-resistant, suitable for dry climates."
+29.1,45.4,39.3,Millets,"Drought-resistant, suitable for dry climates."
+27.8,59.9,45.6,Millets,"Drought-resistant, suitable for dry climates."
+28.4,53.5,30.6,Millets,"Drought-resistant, suitable for dry climates."
+24.2,58.1,36.6,Millets,"Drought-resistant, suitable for dry climates."
+30.0,51.0,35.1,Millets,"Drought-resistant, suitable for dry climates."
+30.9,47.1,40.3,Millets,"Drought-resistant, suitable for dry climates."
+24.9,46.6,44.0,Millets,"Drought-resistant, suitable for dry climates."
+29.0,41.1,40.8,Millets,"Drought-resistant, suitable for dry climates."
+25.2,45.5,44.1,Millets,"Drought-resistant, suitable for dry climates."
+28.1,52.1,30.3,Millets,"Drought-resistant, suitable for dry climates."
+24.8,56.2,36.1,Millets,"Drought-resistant, suitable for dry climates."
+23.5,54.8,37.8,Millets,"Drought-resistant, suitable for dry climates."
+25.1,53.7,46.0,Millets,"Drought-resistant, suitable for dry climates."
+27.3,42.0,36.7,Millets,"Drought-resistant, suitable for dry climates."
+25.4,52.4,41.7,Millets,"Drought-resistant, suitable for dry climates."
+30.4,45.8,36.8,Millets,"Drought-resistant, suitable for dry climates."
+26.1,43.3,40.4,Millets,"Drought-resistant, suitable for dry climates."
+23.2,44.6,41.0,Millets,"Drought-resistant, suitable for dry climates."
+26.7,47.2,49.2,Millets,"Drought-resistant, suitable for dry climates."
+31.3,56.3,31.9,Millets,"Drought-resistant, suitable for dry climates."
+29.1,59.1,38.4,Millets,"Drought-resistant, suitable for dry climates."
+29.7,61.8,55.1,Groundnut,Needs warm climate with adequate rainfall.
+25.1,76.2,57.1,Groundnut,Needs warm climate with adequate rainfall.
+25.8,63.0,57.2,Groundnut,Needs warm climate with adequate rainfall.
+28.0,73.7,47.4,Groundnut,Needs warm climate with adequate rainfall.
+20.4,72.0,57.8,Groundnut,Needs warm climate with adequate rainfall.
+21.9,76.2,49.2,Groundnut,Needs warm climate with adequate rainfall.
+29.0,64.3,59.1,Groundnut,Needs warm climate with adequate rainfall.
+21.5,73.3,59.6,Groundnut,Needs warm climate with adequate rainfall.
+25.4,72.3,58.3,Groundnut,Needs warm climate with adequate rainfall.
+23.2,72.2,49.0,Groundnut,Needs warm climate with adequate rainfall.
+23.3,65.2,41.3,Groundnut,Needs warm climate with adequate rainfall.
+27.9,70.7,41.3,Groundnut,Needs warm climate with adequate rainfall.
+21.8,66.8,55.5,Groundnut,Needs warm climate with adequate rainfall.
+26.2,79.9,59.6,Groundnut,Needs warm climate with adequate rainfall.
+29.8,72.3,41.3,Groundnut,Needs warm climate with adequate rainfall.
+27.6,64.3,41.6,Groundnut,Needs warm climate with adequate rainfall.
+22.6,77.3,54.0,Groundnut,Needs warm climate with adequate rainfall.
+26.3,68.3,56.1,Groundnut,Needs warm climate with adequate rainfall.
+23.1,72.1,54.1,Groundnut,Needs warm climate with adequate rainfall.
+29.8,76.6,55.4,Groundnut,Needs warm climate with adequate rainfall.
+20.4,67.2,47.9,Groundnut,Needs warm climate with adequate rainfall.
+29.7,79.1,48.0,Groundnut,Needs warm climate with adequate rainfall.
+20.4,74.3,40.1,Groundnut,Needs warm climate with adequate rainfall.
+28.3,77.4,58.3,Groundnut,Needs warm climate with adequate rainfall.
+25.8,64.8,54.6,Groundnut,Needs warm climate with adequate rainfall.
+22.0,70.0,49.8,Groundnut,Needs warm climate with adequate rainfall.
+27.0,70.1,45.6,Groundnut,Needs warm climate with adequate rainfall.
+29.1,70.5,45.7,Groundnut,Needs warm climate with adequate rainfall.
+23.1,68.7,44.2,Groundnut,Needs warm climate with adequate rainfall.
+26.1,77.9,51.3,Groundnut,Needs warm climate with adequate rainfall.
+23.9,80.0,57.9,Groundnut,Needs warm climate with adequate rainfall.
+21.6,65.8,51.0,Groundnut,Needs warm climate with adequate rainfall.
+29.6,62.2,58.9,Groundnut,Needs warm climate with adequate rainfall.
+25.1,61.9,44.3,Groundnut,Needs warm climate with adequate rainfall.
+27.5,61.2,57.6,Groundnut,Needs warm climate with adequate rainfall.
+20.6,73.1,57.6,Groundnut,Needs warm climate with adequate rainfall.
+27.9,68.0,56.4,Groundnut,Needs warm climate with adequate rainfall.
+26.7,65.1,40.3,Groundnut,Needs warm climate with adequate rainfall.
+27.5,61.5,59.2,Groundnut,Needs warm climate with adequate rainfall.
+29.9,70.7,57.7,Groundnut,Needs warm climate with adequate rainfall.
+25.4,74.0,43.3,Groundnut,Needs warm climate with adequate rainfall.
+27.1,63.1,47.8,Groundnut,Needs warm climate with adequate rainfall.
+29.1,66.8,51.6,Groundnut,Needs warm climate with adequate rainfall.
+25.5,70.1,43.9,Groundnut,Needs warm climate with adequate rainfall.
+29.4,76.9,58.8,Groundnut,Needs warm climate with adequate rainfall.
+22.9,77.2,53.7,Groundnut,Needs warm climate with adequate rainfall.
+29.0,64.8,56.2,Groundnut,Needs warm climate with adequate rainfall.
+24.9,62.0,54.9,Groundnut,Needs warm climate with adequate rainfall.
+26.7,68.3,45.4,Groundnut,Needs warm climate with adequate rainfall.
+23.0,65.1,43.0,Groundnut,Needs warm climate with adequate rainfall.
+20.7,78.7,47.7,Groundnut,Needs warm climate with adequate rainfall.
+20.9,76.5,54.6,Groundnut,Needs warm climate with adequate rainfall.
+20.5,69.6,46.7,Groundnut,Needs warm climate with adequate rainfall.
+23.2,74.8,46.9,Groundnut,Needs warm climate with adequate rainfall.
+25.6,66.1,53.3,Groundnut,Needs warm climate with adequate rainfall.
+27.8,67.4,56.8,Groundnut,Needs warm climate with adequate rainfall.
+25.8,78.2,44.3,Groundnut,Needs warm climate with adequate rainfall.
+24.2,60.1,56.8,Groundnut,Needs warm climate with adequate rainfall.
+26.7,73.4,51.0,Groundnut,Needs warm climate with adequate rainfall.
+22.2,72.2,52.1,Groundnut,Needs warm climate with adequate rainfall.
+23.1,77.1,55.3,Groundnut,Needs warm climate with adequate rainfall.
+27.6,68.5,41.3,Groundnut,Needs warm climate with adequate rainfall.
+27.1,74.4,50.3,Groundnut,Needs warm climate with adequate rainfall.
+27.3,79.6,45.2,Groundnut,Needs warm climate with adequate rainfall.
+29.0,64.8,42.2,Groundnut,Needs warm climate with adequate rainfall.
+21.3,78.2,54.6,Groundnut,Needs warm climate with adequate rainfall.
+23.4,77.2,54.0,Groundnut,Needs warm climate with adequate rainfall.
+26.9,71.9,53.8,Groundnut,Needs warm climate with adequate rainfall.
+23.0,79.5,55.2,Groundnut,Needs warm climate with adequate rainfall.
+26.7,67.3,49.7,Groundnut,Needs warm climate with adequate rainfall.
+21.4,69.9,47.6,Groundnut,Needs warm climate with adequate rainfall.
+27.2,73.0,53.7,Groundnut,Needs warm climate with adequate rainfall.
+25.4,79.3,55.0,Groundnut,Needs warm climate with adequate rainfall.
+26.4,64.8,52.2,Groundnut,Needs warm climate with adequate rainfall.
+29.9,74.7,52.0,Groundnut,Needs warm climate with adequate rainfall.
+23.4,63.4,44.0,Groundnut,Needs warm climate with adequate rainfall.
+26.0,72.7,58.6,Groundnut,Needs warm climate with adequate rainfall.
+28.9,75.5,51.8,Groundnut,Needs warm climate with adequate rainfall.
+22.9,73.7,40.7,Groundnut,Needs warm climate with adequate rainfall.
+27.0,73.7,45.4,Groundnut,Needs warm climate with adequate rainfall.
+20.7,77.8,50.6,Groundnut,Needs warm climate with adequate rainfall.
+21.3,63.7,53.1,Groundnut,Needs warm climate with adequate rainfall.
+20.1,75.8,41.2,Groundnut,Needs warm climate with adequate rainfall.
+22.3,64.1,58.6,Groundnut,Needs warm climate with adequate rainfall.
+29.1,70.5,58.2,Groundnut,Needs warm climate with adequate rainfall.
+20.7,74.7,42.2,Groundnut,Needs warm climate with adequate rainfall.
+21.8,75.7,56.2,Groundnut,Needs warm climate with adequate rainfall.
+26.5,65.9,46.9,Groundnut,Needs warm climate with adequate rainfall.
+26.3,68.2,42.6,Groundnut,Needs warm climate with adequate rainfall.
+21.9,64.9,41.1,Groundnut,Needs warm climate with adequate rainfall.
+22.0,72.6,51.2,Groundnut,Needs warm climate with adequate rainfall.
+28.1,73.6,40.7,Groundnut,Needs warm climate with adequate rainfall.
+27.0,72.4,56.9,Groundnut,Needs warm climate with adequate rainfall.
+28.2,65.1,53.5,Groundnut,Needs warm climate with adequate rainfall.
+28.8,69.0,56.3,Groundnut,Needs warm climate with adequate rainfall.
+26.1,63.0,53.3,Groundnut,Needs warm climate with adequate rainfall.
+22.1,69.7,57.7,Groundnut,Needs warm climate with adequate rainfall.
+27.9,68.8,40.2,Groundnut,Needs warm climate with adequate rainfall.
+24.3,74.5,58.8,Groundnut,Needs warm climate with adequate rainfall.
+28.2,69.5,47.2,Groundnut,Needs warm climate with adequate rainfall.
+20.4,67.6,57.0,Soybean,"Grows well in warm, moist environments."
+24.6,73.0,66.9,Soybean,"Grows well in warm, moist environments."
+20.2,67.9,57.5,Soybean,"Grows well in warm, moist environments."
+27.3,79.1,55.3,Soybean,"Grows well in warm, moist environments."
+25.7,76.1,51.8,Soybean,"Grows well in warm, moist environments."
+26.9,70.9,64.8,Soybean,"Grows well in warm, moist environments."
+28.2,63.8,66.4,Soybean,"Grows well in warm, moist environments."
+28.1,68.2,54.1,Soybean,"Grows well in warm, moist environments."
+23.7,63.5,51.4,Soybean,"Grows well in warm, moist environments."
+27.3,69.0,68.1,Soybean,"Grows well in warm, moist environments."
+26.9,75.7,56.1,Soybean,"Grows well in warm, moist environments."
+20.6,65.5,66.8,Soybean,"Grows well in warm, moist environments."
+25.5,75.7,63.1,Soybean,"Grows well in warm, moist environments."
+27.5,69.8,66.1,Soybean,"Grows well in warm, moist environments."
+23.8,65.5,67.3,Soybean,"Grows well in warm, moist environments."
+26.1,66.2,66.9,Soybean,"Grows well in warm, moist environments."
+20.9,76.2,50.5,Soybean,"Grows well in warm, moist environments."
+24.3,63.7,62.3,Soybean,"Grows well in warm, moist environments."
+27.6,75.1,53.3,Soybean,"Grows well in warm, moist environments."
+22.4,66.1,55.4,Soybean,"Grows well in warm, moist environments."
+27.1,76.4,50.6,Soybean,"Grows well in warm, moist environments."
+27.6,69.0,64.2,Soybean,"Grows well in warm, moist environments."
+25.5,71.5,70.0,Soybean,"Grows well in warm, moist environments."
+21.5,73.8,60.2,Soybean,"Grows well in warm, moist environments."
+21.8,64.2,54.4,Soybean,"Grows well in warm, moist environments."
+23.9,66.4,51.7,Soybean,"Grows well in warm, moist environments."
+23.9,77.5,53.7,Soybean,"Grows well in warm, moist environments."
+24.5,73.3,54.3,Soybean,"Grows well in warm, moist environments."
+25.2,61.2,63.4,Soybean,"Grows well in warm, moist environments."
+29.6,75.4,51.7,Soybean,"Grows well in warm, moist environments."
+29.4,74.0,67.7,Soybean,"Grows well in warm, moist environments."
+28.9,60.1,58.6,Soybean,"Grows well in warm, moist environments."
+29.6,62.8,60.0,Soybean,"Grows well in warm, moist environments."
+25.5,77.2,58.0,Soybean,"Grows well in warm, moist environments."
+25.6,64.7,63.8,Soybean,"Grows well in warm, moist environments."
+20.2,71.8,55.6,Soybean,"Grows well in warm, moist environments."
+21.7,77.7,50.8,Soybean,"Grows well in warm, moist environments."
+29.0,77.0,53.0,Soybean,"Grows well in warm, moist environments."
+27.1,69.1,57.8,Soybean,"Grows well in warm, moist environments."
+24.0,64.8,56.8,Soybean,"Grows well in warm, moist environments."
+28.9,77.3,66.7,Soybean,"Grows well in warm, moist environments."
+28.3,77.0,52.8,Soybean,"Grows well in warm, moist environments."
+21.8,75.6,68.7,Soybean,"Grows well in warm, moist environments."
+21.6,65.7,52.6,Soybean,"Grows well in warm, moist environments."
+26.4,68.9,50.5,Soybean,"Grows well in warm, moist environments."
+29.5,64.1,66.2,Soybean,"Grows well in warm, moist environments."
+21.2,74.3,59.8,Soybean,"Grows well in warm, moist environments."
+26.3,75.8,60.4,Soybean,"Grows well in warm, moist environments."
+27.7,71.1,56.7,Soybean,"Grows well in warm, moist environments."
+20.7,67.1,55.6,Soybean,"Grows well in warm, moist environments."
+29.6,60.9,53.2,Soybean,"Grows well in warm, moist environments."
+29.5,79.9,54.0,Soybean,"Grows well in warm, moist environments."
+24.7,70.5,52.7,Soybean,"Grows well in warm, moist environments."
+29.5,73.1,54.1,Soybean,"Grows well in warm, moist environments."
+27.3,61.8,63.6,Soybean,"Grows well in warm, moist environments."
+22.8,77.6,50.9,Soybean,"Grows well in warm, moist environments."
+24.4,62.5,68.5,Soybean,"Grows well in warm, moist environments."
+22.2,78.6,53.0,Soybean,"Grows well in warm, moist environments."
+28.6,78.5,55.7,Soybean,"Grows well in warm, moist environments."
+22.2,73.6,65.0,Soybean,"Grows well in warm, moist environments."
+21.1,77.6,59.8,Soybean,"Grows well in warm, moist environments."
+28.1,61.1,62.4,Soybean,"Grows well in warm, moist environments."
+29.3,65.4,55.0,Soybean,"Grows well in warm, moist environments."
+24.4,77.7,50.1,Soybean,"Grows well in warm, moist environments."
+21.6,69.6,66.3,Soybean,"Grows well in warm, moist environments."
+28.3,78.8,56.5,Soybean,"Grows well in warm, moist environments."
+25.0,64.9,54.9,Soybean,"Grows well in warm, moist environments."
+24.2,79.0,57.5,Soybean,"Grows well in warm, moist environments."
+25.1,63.7,53.1,Soybean,"Grows well in warm, moist environments."
+25.1,63.0,62.9,Soybean,"Grows well in warm, moist environments."
+28.8,67.2,58.8,Soybean,"Grows well in warm, moist environments."
+26.5,76.2,59.1,Soybean,"Grows well in warm, moist environments."
+20.7,71.6,56.9,Soybean,"Grows well in warm, moist environments."
+25.0,62.7,62.8,Soybean,"Grows well in warm, moist environments."
+29.0,63.5,68.7,Soybean,"Grows well in warm, moist environments."
+24.7,64.9,65.8,Soybean,"Grows well in warm, moist environments."
+23.5,68.3,62.9,Soybean,"Grows well in warm, moist environments."
+24.6,65.8,52.4,Soybean,"Grows well in warm, moist environments."
+20.5,79.8,68.4,Soybean,"Grows well in warm, moist environments."
+26.0,67.1,66.7,Soybean,"Grows well in warm, moist environments."
+25.3,63.1,56.0,Soybean,"Grows well in warm, moist environments."
+24.0,65.5,69.1,Soybean,"Grows well in warm, moist environments."
+27.2,78.7,51.9,Soybean,"Grows well in warm, moist environments."
+24.6,72.1,60.1,Soybean,"Grows well in warm, moist environments."
+24.9,70.2,68.1,Soybean,"Grows well in warm, moist environments."
+28.2,71.5,62.6,Soybean,"Grows well in warm, moist environments."
+22.8,71.3,57.1,Soybean,"Grows well in warm, moist environments."
+28.6,76.6,59.8,Soybean,"Grows well in warm, moist environments."
+22.6,62.6,65.9,Soybean,"Grows well in warm, moist environments."
+27.8,67.9,53.1,Soybean,"Grows well in warm, moist environments."
+22.4,73.3,53.5,Soybean,"Grows well in warm, moist environments."
+21.7,78.4,69.5,Soybean,"Grows well in warm, moist environments."
+29.9,75.8,68.2,Soybean,"Grows well in warm, moist environments."
+28.1,76.5,63.0,Soybean,"Grows well in warm, moist environments."
+20.4,69.3,52.1,Soybean,"Grows well in warm, moist environments."
+24.8,73.9,51.7,Soybean,"Grows well in warm, moist environments."
+27.7,72.0,59.1,Soybean,"Grows well in warm, moist environments."
+21.8,64.6,53.8,Soybean,"Grows well in warm, moist environments."
+29.1,69.3,62.8,Soybean,"Grows well in warm, moist environments."
+29.4,71.3,53.6,Soybean,"Grows well in warm, moist environments."
+17.1,49.9,41.0,Lentil,"Prefers cool, dry environments."
+24.2,44.6,33.7,Lentil,"Prefers cool, dry environments."
+13.6,41.1,37.2,Lentil,"Prefers cool, dry environments."
+24.0,31.9,29.2,Lentil,"Prefers cool, dry environments."
+20.5,36.8,42.0,Lentil,"Prefers cool, dry environments."
+21.3,32.5,25.3,Lentil,"Prefers cool, dry environments."
+18.4,49.4,44.1,Lentil,"Prefers cool, dry environments."
+14.9,30.7,27.0,Lentil,"Prefers cool, dry environments."
+24.2,45.2,40.3,Lentil,"Prefers cool, dry environments."
+11.2,48.9,27.7,Lentil,"Prefers cool, dry environments."
+14.9,41.0,37.3,Lentil,"Prefers cool, dry environments."
+25.0,45.9,29.9,Lentil,"Prefers cool, dry environments."
+16.9,43.2,39.0,Lentil,"Prefers cool, dry environments."
+23.5,35.8,28.5,Lentil,"Prefers cool, dry environments."
+24.7,42.5,34.2,Lentil,"Prefers cool, dry environments."
+20.0,34.2,42.9,Lentil,"Prefers cool, dry environments."
+11.0,43.8,40.2,Lentil,"Prefers cool, dry environments."
+14.1,44.1,27.5,Lentil,"Prefers cool, dry environments."
+23.9,31.9,25.5,Lentil,"Prefers cool, dry environments."
+12.6,38.7,32.3,Lentil,"Prefers cool, dry environments."
+12.6,37.8,27.5,Lentil,"Prefers cool, dry environments."
+23.5,34.3,42.8,Lentil,"Prefers cool, dry environments."
+16.8,35.7,41.5,Lentil,"Prefers cool, dry environments."
+22.0,35.4,34.1,Lentil,"Prefers cool, dry environments."
+23.1,49.9,26.1,Lentil,"Prefers cool, dry environments."
+15.4,31.2,43.8,Lentil,"Prefers cool, dry environments."
+20.1,38.4,29.8,Lentil,"Prefers cool, dry environments."
+18.7,37.7,32.1,Lentil,"Prefers cool, dry environments."
+12.6,48.4,33.8,Lentil,"Prefers cool, dry environments."
+18.3,43.5,37.9,Lentil,"Prefers cool, dry environments."
+18.4,43.6,38.6,Lentil,"Prefers cool, dry environments."
+23.1,36.9,34.8,Lentil,"Prefers cool, dry environments."
+17.5,48.1,37.6,Lentil,"Prefers cool, dry environments."
+20.2,43.2,26.7,Lentil,"Prefers cool, dry environments."
+18.5,49.1,33.2,Lentil,"Prefers cool, dry environments."
+11.3,38.1,29.9,Lentil,"Prefers cool, dry environments."
+20.4,45.4,33.0,Lentil,"Prefers cool, dry environments."
+11.5,35.0,33.1,Lentil,"Prefers cool, dry environments."
+22.0,35.8,35.8,Lentil,"Prefers cool, dry environments."
+12.4,34.5,41.9,Lentil,"Prefers cool, dry environments."
+19.4,39.9,42.1,Lentil,"Prefers cool, dry environments."
+13.5,43.4,36.8,Lentil,"Prefers cool, dry environments."
+11.4,45.1,39.3,Lentil,"Prefers cool, dry environments."
+17.6,34.0,28.7,Lentil,"Prefers cool, dry environments."
+14.0,42.3,31.5,Lentil,"Prefers cool, dry environments."
+23.6,41.2,30.6,Lentil,"Prefers cool, dry environments."
+22.1,42.7,29.3,Lentil,"Prefers cool, dry environments."
+22.6,41.5,38.5,Lentil,"Prefers cool, dry environments."
+24.0,41.5,40.9,Lentil,"Prefers cool, dry environments."
+15.3,45.2,31.6,Lentil,"Prefers cool, dry environments."
+12.9,47.1,43.4,Lentil,"Prefers cool, dry environments."
+20.7,41.4,35.4,Lentil,"Prefers cool, dry environments."
+13.1,38.2,40.2,Lentil,"Prefers cool, dry environments."
+19.0,34.7,33.2,Lentil,"Prefers cool, dry environments."
+18.0,32.0,33.6,Lentil,"Prefers cool, dry environments."
+18.7,41.5,33.6,Lentil,"Prefers cool, dry environments."
+18.3,44.2,25.4,Lentil,"Prefers cool, dry environments."
+20.1,35.2,44.0,Lentil,"Prefers cool, dry environments."
+16.8,49.2,37.5,Lentil,"Prefers cool, dry environments."
+22.4,31.6,42.9,Lentil,"Prefers cool, dry environments."
+18.4,41.5,43.8,Lentil,"Prefers cool, dry environments."
+14.9,48.6,36.3,Lentil,"Prefers cool, dry environments."
+11.6,32.7,26.7,Lentil,"Prefers cool, dry environments."
+21.3,36.1,34.7,Lentil,"Prefers cool, dry environments."
+16.6,48.7,33.3,Lentil,"Prefers cool, dry environments."
+10.1,30.5,25.0,Lentil,"Prefers cool, dry environments."
+24.2,33.1,31.8,Lentil,"Prefers cool, dry environments."
+16.8,48.7,35.4,Lentil,"Prefers cool, dry environments."
+14.7,31.5,27.4,Lentil,"Prefers cool, dry environments."
+17.4,46.3,36.3,Lentil,"Prefers cool, dry environments."
+23.1,42.9,37.4,Lentil,"Prefers cool, dry environments."
+22.3,33.5,41.9,Lentil,"Prefers cool, dry environments."
+16.3,44.7,32.0,Lentil,"Prefers cool, dry environments."
+12.2,42.4,44.8,Lentil,"Prefers cool, dry environments."
+18.5,36.3,26.9,Lentil,"Prefers cool, dry environments."
+16.5,40.0,33.7,Lentil,"Prefers cool, dry environments."
+14.2,41.9,41.8,Lentil,"Prefers cool, dry environments."
+23.2,34.9,32.3,Lentil,"Prefers cool, dry environments."
+12.2,45.7,31.1,Lentil,"Prefers cool, dry environments."
+20.0,35.1,43.9,Lentil,"Prefers cool, dry environments."
+22.8,39.0,25.6,Lentil,"Prefers cool, dry environments."
+13.6,36.5,41.2,Lentil,"Prefers cool, dry environments."
+23.7,46.1,26.3,Lentil,"Prefers cool, dry environments."
+21.5,41.9,33.7,Lentil,"Prefers cool, dry environments."
+25.0,37.1,29.5,Lentil,"Prefers cool, dry environments."
+16.2,45.1,38.0,Lentil,"Prefers cool, dry environments."
+14.7,44.7,39.4,Lentil,"Prefers cool, dry environments."
+17.0,46.2,44.5,Lentil,"Prefers cool, dry environments."
+21.5,35.8,37.9,Lentil,"Prefers cool, dry environments."
+11.3,32.0,33.6,Lentil,"Prefers cool, dry environments."
+20.2,44.2,44.5,Lentil,"Prefers cool, dry environments."
+21.0,42.7,29.0,Lentil,"Prefers cool, dry environments."
+21.4,41.1,31.4,Lentil,"Prefers cool, dry environments."
+12.0,32.8,31.4,Lentil,"Prefers cool, dry environments."
+11.8,42.6,41.6,Lentil,"Prefers cool, dry environments."
+15.8,49.8,30.0,Lentil,"Prefers cool, dry environments."
+13.7,36.9,39.7,Lentil,"Prefers cool, dry environments."
+13.7,45.9,39.6,Lentil,"Prefers cool, dry environments."
+11.4,38.0,34.8,Lentil,"Prefers cool, dry environments."
+21.9,46.8,27.8,Lentil,"Prefers cool, dry environments."
